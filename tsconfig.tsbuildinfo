@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/AuthScreen.tsx","./src/LegalModal.tsx","./src/PaywallScreen.tsx","./src/data.ts","./src/declarations.d.ts","./src/history.ts","./src/main.tsx","./src/theme.tsx","./src/vite-env.d.ts","./src/lib/auth.tsx","./src/lib/config.ts","./src/lib/firebase.ts","./src/lib/playBilling.ts","./src/lib/supabase.ts"],"version":"5.9.3"}
